@@ -1,7 +1,7 @@
 # blindfold
 A wow addon that blinds the player.
 
-#syntax
+
 /blind on - turns it on
 /blind off - turns it off
 /blind size - sets size of viewport, default is 80
