@@ -13,3 +13,5 @@ A wow addon that blinds the player.
 /blind help - showshelp messages.
 
 This addon will never be hosted on Curseforge due to my personal issues with their developer agreements and other political matters surrounding their parent company. You do not have permission to redistribute this software to any platform operated by Overwolf Ltd.
+
+This is defined clearly in the licensing agreement.
